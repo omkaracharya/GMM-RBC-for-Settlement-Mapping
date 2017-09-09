@@ -4,4 +4,4 @@ A combination of unsupervised learning (soft clustering through a Gaussian Mixtu
 
 We have written a [paper](/Documentation/Paper.pdf) on this project and also have created a [poster](/poster.png).
   
-![Poster](/Documentation/Poster.PNG)
+![Poster](/Documentation/Poster.png)
